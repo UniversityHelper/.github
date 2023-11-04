@@ -1,2 +1,2 @@
 # Hello, this is HerzenHelper team!
-HerzenHelper is a team developing the first digital Herzen University platform, HerzenHelper. HerzenHelper Platform digitalizes every student micro process in our University. It covers all parts of the study — from schedule and guides to real-time notes and events. In addition, the platform is integrated with our University API. It already in Alpha. 
+HerzenHelper is a team developing the first digital Herzen University platform, HerzenHelper. HerzenHelper Platform digitalizes every student micro process in our University. It covers all parts of the study — from schedule and guides to real-time notes and events. In addition, the platform is integrated with our University API. It already in closed alpha developing. 
